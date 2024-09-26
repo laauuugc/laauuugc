@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @laauuugc
-- 👀 I’m interested in sowftware engineering
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on as many projects as possible
-- 📫 How to reach me: email
-- 😄 Pronouns: she/her
+- 📫 How to reach me: laauuugc@gmail.com
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm vegan hehe
 
 <!---
