@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on as many projects as possible
-- 📫 How to reach me: laauuugc@gmail.com
+- 📫 How to reach me: laauuugc@gmail.com / www.linkedin.com/in/laura-gonzález-calleja-6445222a4
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm vegan hehe
 
